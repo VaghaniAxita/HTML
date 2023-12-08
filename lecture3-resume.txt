@@ -1,0 +1,56 @@
+<html>
+    <head>
+        <title>Lecture 3</title>
+    </head>
+    <body>
+        <u><center><h2>RESUME</h2></center></u>
+       <h1><b>Axita vaghani</b></h1>
+       <p>Web Developer</p>
+       <img src="/img.jpg" alt="My Image" height="200" width="200">
+       <h2><b>Contact Information</b></h2>
+
+       <ul type="circle">
+        <li>Email : vaghaniaxita23@gmail.com</li>
+        <li>Phone : 1234567890 </li>
+        <li>LinkedIn : linkedin.com/in/axita</li>
+        <li>GitHub : github.com/axitavaghani</li>
+       </ul>
+
+       <h2>Education</h2>
+       <h4>University Name</h4>
+       <p>Bachelor of Computer Application <br/> Graduation Year : 2023</p>
+
+       <h2>Experience</h2>
+       <strong>Web Developer</strong><br/>
+        Company Name: abc <br/> City : xyz <br/>  Date Range : pqr
+
+       <ul>
+        <li>Developed and maintained web applications.</li>
+        <li>Collaborated with cross-functional teams to deliver projects on time.</li>
+        <li>Implemented responsive design principles to ensure a seamless user experience.</li>
+       </ul>
+
+       <h2>Skills</h2>
+       <ol strat="1">
+        <li>Android</li>
+        <li>.Net</li>
+        <li>HTML</li>
+        <li>PHP</li>
+        <li>CSS</li>
+       </ol>
+
+       <h2>Projects</h2>
+       <dl>
+        <dt><strong>Online Property Buyer</strong></dt>
+        <dd>- Designed and developed a Online Prorery Buyer application in Android.</dd>
+       </dl>
+
+       <dl>
+        <dt><strong>Recruiting App</strong></dt>
+        <dd>- Designed and developed a Recruiting Application for hire Employee.</dd>
+       </dl>
+
+       <h2>Languages</h2>
+       <p>Gujarati, Hindi, English</p>
+    </body>
+</html>
