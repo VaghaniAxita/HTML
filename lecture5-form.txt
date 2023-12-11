@@ -1,0 +1,52 @@
+<html>
+    <head><title>Lecture 5</title></head>
+    <body>
+        <h1>User Data</h1>
+        <form>
+            <label for="Name">User Name:</label>
+            <input type="text" placeholder="Enter Your Name" required><br/>
+            <label for="password">Password:</label>
+            <input type="password" placeholder=" Enter password" required><br/>
+
+            <input type="checkbox">
+            <label for="">Subscribe to our newsletter</label><br/>
+
+            <label for="">Choose your role: </label>
+            <input type="radio" name="Designer">
+            <label for="developer">Developer</label>
+            <input type="radio" name="Designer">
+            <label for="designer">Designer</label>
+            <input type="radio" name="Designer">
+            <label for="manager">Manager</label><br/>
+
+            <label for="">Interests:</label>
+            <input type="checkbox">
+            <label for="coding">Coding</label>
+            <input type="checkbox">
+            <label for="design">Design</label>
+            <input type="checkbox">
+            <label for="management">Management</label><br/>
+
+            <label for="gender">Select your gender:</label>
+            <select name="gender" id="">
+                <option value="">Female</option>
+                <option value="">Male</option>
+                <option value="">Other</option>
+            </select><br/>
+
+            <label for="color">Favorite Color:</label>
+            <input type="color" name="" id=""><br/>
+
+            <label for="age">Age:</label>
+            <input type="number" placeholder="age" min="15" max="30"><br/>
+
+            <label for="picture">Profile Picture:</label>
+            <input type="file"><br/>
+
+            <label for="url">Website URL:</label>
+            <input type="url"><br/>
+
+            <input type="submit" value="Submit">
+        </form>
+    </body>
+</html>
