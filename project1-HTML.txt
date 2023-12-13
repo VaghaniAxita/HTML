@@ -342,7 +342,6 @@ Contact.html
     <head><title>contact</title></head>
     <body>
         <center>
-            <h2><a href="/Thankyou.html" target="_blank">Thank You</a></h2>
             <h3><u>Fill Up The Form</u></h3>
             <form>
                 <label for="Name">User Name:</label>
