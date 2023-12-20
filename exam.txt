@@ -1,0 +1,184 @@
+<html>
+
+<head>
+    <title>Project</title>
+</head>
+
+<body>
+
+    <a href="#homepage">Home Page</a><br />
+    <a href="#coursesoffered">Courses Offered</a><br />
+    <a href="#facultyinformation">Faculty Information</a><br />
+    <a href="#researchactivities">Research Activities</a><br />
+    <a href="#alumni">Alumni</a><br />
+    <a href="#eventsandconferences">Events and Conferences</a><br />
+    <a href="#studentprojects">Student Projects</a><br />
+    <hr />
+
+    <img src="/logo.png" alt="Red and WhiteMultimedia Education">
+    <h1>Advanced Educational Institute Website</h1>
+    <div id="homepage">
+        <h3>
+            <p><b>Explore innovation,education and Exellence</p></b>
+        </h3>
+
+        <h3>Latest Announcment</h3>
+        <ul>
+            <li>Announcment 1 : Our Institute ranked #1 in technology education.</li>
+            <li>Announcment 2 : Launching a new initiative for advance reaserch.</li>
+        </ul>
+
+        <p>Contact information: info@advancedinstitute.com </p>
+        <p>Phone No : 123-456-7890</p>
+
+
+
+        
+    </div><a href="https://www.facebook.com/">Facebook</a>
+        <a href="https://www.google.com/search?q=facebook+login&oq=facebook&gs_lcrp=EgZjaHJvbWUqEggCEAAYQxiDARixAxiABBiKBTIGCAAQRRg8MhgIARAuGEMYgwEYxwEYsQMY0QMYgAQYigUyEggCEAAYQxiDARixAxiABBiKBTISCAMQABhDGIMBGLEDGIAEGIoFMgcIBBAAGIAEMg0IBRAAGIMBGLEDGIAEMg0IBhAAGIMBGLEDGIAEMgcIBxAAGIAE0gEINDI2NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8">Instagram</a>
+    <hr/>
+
+    <div id="coursesoffered">
+
+        <img src="/logo.png" alt="Red and WhiteMultimedia Education">
+        <h2>Exlpore Our Cutting-Edge Courses</h2>
+        <ul>
+            
+            <h3><li>Artificial Intelligence & Robotics</li> </h3>
+        </ul>
+        <img src="/ai.jpeg" alt="AI" height="200" width="200"><br/>
+        Delve into the world of AI and Robotics,shaping the future of technology.<br/>
+        Admission Requirement: Bachelor's degree in Computer Science or related field.<br/>
+        Fees Structure: Tuition - $10,000 per semester | Lab fees - $5000 <br/>
+    
+           <ul>
+                <h3><li>Quantum Computing</li></h3>
+            </ul>
+        <img src="/qc.jpeg" alt="Quantam Computing" height="200" width="200"><br/>
+        Master the principles of quantam computing and quantum information theory.<br/>
+        Admission Requirement: Strong background in mathematics andvin Computer Science.<br/>
+        Fees Structure: Tuition - $12,000 per semester | Lab fees - $600<br/>
+
+        <p>Contact information: info@advancedinstitute.com </p>
+        <p>Phone No : 123-456-7890</p>
+        <a href="https://www.facebook.com/">Facebook</a>
+        <a href="https://www.google.com/search?q=facebook+login&oq=facebook&gs_lcrp=EgZjaHJvbWUqEggCEAAYQxiDARixAxiABBiKBTIGCAAQRRg8MhgIARAuGEMYgwEYxwEYsQMY0QMYgAQYigUyEggCEAAYQxiDARixAxiABBiKBTISCAMQABhDGIMBGLEDGIAEGIoFMgcIBBAAGIAEMg0IBRAAGIMBGLEDGIAEMg0IBhAAGIMBGLEDGIAEMgcIBxAAGIAE0gEINDI2NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8">Instagram</a>
+    </div>
+    <hr/>
+
+
+    <div id="facultyinformation">
+        <img src="/logo.png" alt="Red and WhiteMultimedia Education">
+        <h2>Meet Our Renowned Faculty</h2>
+        <img src="/f1.avif" height="200" width="200" alt="Dr.Alan Quantum">
+        <h3>Dr.Alan Quantam</h3>
+        <ul>
+            <li>Position : Professor of Quantam Computing</li>
+            <li>Brief Bio : A pioneer in Quantam algorithms and information theory.</li>
+            <li>Academic Achievement : Published numerous papers in tpo-tier jounals.</li>
+        </ul>
+
+        <img src="/f2.jpg" height="200" width="200" alt="Prof.Sophia Intelligence">
+        <h3>Prof.Sophia Intelligence</h3>
+        <ul>
+            <li>Position : Associate Professor of Artificial Intelligence.</li>
+            <li>Brief Bio : Wxpert in machine learning and natural language processing.</li>
+            <li>Academic Achievement : Received the Excellence in AI Research Award.</li>
+        </ul><br/>
+        </ul>
+
+        <p>Contact information: info@advancedinstitute.com </p>
+        <p>Phone No : 123-456-7890</p>
+        <a href="https://www.facebook.com/">Facebook</a>
+        <a href="https://www.google.com/search?q=facebook+login&oq=facebook&gs_lcrp=EgZjaHJvbWUqEggCEAAYQxiDARixAxiABBiKBTIGCAAQRRg8MhgIARAuGEMYgwEYxwEYsQMY0QMYgAQYigUyEggCEAAYQxiDARixAxiABBiKBTISCAMQABhDGIMBGLEDGIAEGIoFMgcIBBAAGIAEMg0IBRAAGIMBGLEDGIAEMg0IBhAAGIMBGLEDGIAEMgcIBxAAGIAE0gEINDI2NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8">Instagram</a>
+    </div>
+    <hr />
+
+    <div id="researchactivities">
+        <img src="/logo.png" alt="Red and WhiteMultimedia Education">
+        <h2>Engage in Cutting-Edge Research</h2>
+        Explore our ongoing reaserch projects and collabotrations.
+
+        <h3>Current Reaserch Areas</h3>
+        <ul>
+            <li>Project 1 : Quantam Cryptography and Secure Communication</li>
+            <li>Project 2 : Advancements in Neural Networks for AI Applications</li>
+            <li>Project 3 : Robotics and Human-Machine Intraction</li>
+        </ul>
+
+        <h3>Join Our Reaserch Community</h3>
+        Contribute to groundbreacking research. Contact our Reaserch Director for more details.<br/>
+        <p>Contact information: info@advancedinstitute.com </p>
+        <p>Phone No : 123-456-7890</p>
+        <a href="https://www.facebook.com/">Facebook</a>
+        <a href="https://www.google.com/search?q=facebook+login&oq=facebook&gs_lcrp=EgZjaHJvbWUqEggCEAAYQxiDARixAxiABBiKBTIGCAAQRRg8MhgIARAuGEMYgwEYxwEYsQMY0QMYgAQYigUyEggCEAAYQxiDARixAxiABBiKBTISCAMQABhDGIMBGLEDGIAEGIoFMgcIBBAAGIAEMg0IBRAAGIMBGLEDGIAEMg0IBhAAGIMBGLEDGIAEMgcIBxAAGIAE0gEINDI2NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8">Instagram</a>
+
+    </div>
+    <hr />
+
+    <div id="alumni">
+        <img src="/logo.png" alt="Red and WhiteMultimedia Education">
+        <h2>Alumni</h2>
+        <b>Meet Our Excellent and Hardworking Alumni.</b> </br>
+        <img src="/alumni1.jpg" alt="" height="200" width="200">
+        <img src="/alumni2.jpeg" alt="" height="200" width="200">
+        <img src="/alumni3.jpeg" alt="" height="200" width="200">
+
+        <p>Contact information: info@advancedinstitute.com </p>
+        <p>Phone No : 123-456-7890</p>
+    </div>
+    <hr />
+
+    <div id="eventsandconferences">
+        <img src="/logo.png" alt="Red and WhiteMultimedia Education">
+        <h2>Events And Conferences</h2>
+
+        <iframe width="560" height="315" controls loop muted
+            src="https://www.youtube.com/embed/rxfUT9qb190?si=o2euJ_vASe2A5sXd" title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen></iframe>
+
+        <iframe width="560" height="315" controls loop muted
+            src="https://www.youtube.com/embed/Fm4ejtQDRZQ?si=1hwDILd6X1xxFVHB" title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen></iframe>
+
+        <p>Contact information: info@advancedinstitute.com </p>
+        <p>Phone No : 123-456-7890</p>
+        <a href="https://www.facebook.com/">Facebook</a>
+        <a href="https://www.google.com/search?q=facebook+login&oq=facebook&gs_lcrp=EgZjaHJvbWUqEggCEAAYQxiDARixAxiABBiKBTIGCAAQRRg8MhgIARAuGEMYgwEYxwEYsQMY0QMYgAQYigUyEggCEAAYQxiDARixAxiABBiKBTISCAMQABhDGIMBGLEDGIAEGIoFMgcIBBAAGIAEMg0IBRAAGIMBGLEDGIAEMg0IBhAAGIMBGLEDGIAEMgcIBxAAGIAE0gEINDI2NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8">Instagram</a>
+    </div>
+    <hr />
+
+    <div id="studentprojects">
+        <img src="/logo.png" alt="Red and WhiteMultimedia Education">
+        <h2>Students Projects</h2>
+
+        <h3><i><b>1. Hiring Employees</b></i></h3>
+        <img src="https://www.myresponsee.com/wp-content/uploads/2020/09/financer-design-free-responsive-business-template.jpg"
+            alt="Wenbsite design for hiring Employees" height="500" width="500">
+
+        <h3><i><b>2. IT Company</b></i></h3>
+        <img src="https://i0.wp.com/htmlcodex.com/wp-content/uploads/2020/02/it-company-website-template.jpg?fit=740%2C463&ssl=1"
+            alt="it company" height="500" width="500">
+
+        <h3><i><b>3. Tours and Travels</b></i></h3>
+        <img src="https://149842033.v2.pressablecdn.com/wp-content/uploads/2019/03/sensive-free-html-website-templates.jpg"
+            alt="tours and travels" height="500" width="500">
+
+        <h3><i><b>4. Best Properties</b></i></h3>
+        <img src="https://webthemez.com/wp-content/uploads/2016/11/Hill-Top-Multi-purpose-Free-HTML5-Template.jpg"
+            alt="best properties" height="500" width="500">
+
+        <p>Contact information: info@advancedinstitute.com </p>
+        <p>Phone No : 123-456-7890</p>
+        <a href="https://www.facebook.com/">Facebook</a>
+        <a href="https://www.google.com/search?q=facebook+login&oq=facebook&gs_lcrp=EgZjaHJvbWUqEggCEAAYQxiDARixAxiABBiKBTIGCAAQRRg8MhgIARAuGEMYgwEYxwEYsQMY0QMYgAQYigUyEggCEAAYQxiDARixAxiABBiKBTISCAMQABhDGIMBGLEDGIAEGIoFMgcIBBAAGIAEMg0IBRAAGIMBGLEDGIAEMg0IBhAAGIMBGLEDGIAEMgcIBxAAGIAE0gEINDI2NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8">Instagram</a>
+
+    </div>
+    <hr/>
+</body>
+
+</html>
