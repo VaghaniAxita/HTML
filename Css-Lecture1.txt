@@ -1,0 +1,101 @@
+index1.html
+=============
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        h1{
+            background-color: rgb(249, 248, 246);
+            font-size: 20px; 
+            padding-top: 20px; 
+            padding-bottom: 20px;
+            padding-left: 10px;
+        }
+
+        p{
+            background-color: rgb(249, 248, 246);
+            font-size: 20px; 
+            padding-top: 20px; 
+            padding-bottom: 20px;
+            padding-left: 10px; 
+        }
+    </style>
+    <link rel="stylesheet" href="/index1.css">
+</head>
+<body>
+    <p style="background-color: rgb(249, 248, 246); padding-top: 20px; padding-bottom: 20px;  padding-left: 10px;">
+        This is a paragraph with basic text properties.
+    </p>
+
+    <h1>
+        This is another paragraph with same class.
+    </h1>
+
+    <h3>
+        Experiment with CSS to create visually apealing content.
+    </h3>
+
+    <p id="text">
+        Change the world with your creativity!
+    </p>
+
+    <h4 class="cnc">
+        CSS allows you to control the look and feel of your web pages.
+    </h4>
+  
+     <h5 class="code">
+        Web design is an exciting journey of creativity and innovation.
+     </h5>
+
+     <h4 class="code">
+        Discover the art of combining colors and typography.
+     </h4>
+
+     <p style="background-color: rgb(253, 180, 180);">
+        Every style tells a story; what's your story?
+     </p>
+
+     <p>
+        Create, iterate, and innovate - the mantra of a web designer.
+     </p>
+     
+
+</body>
+</html>
+
+__________________________________________________________________
+
+index1.css
+=========
+
+h3 {
+    background-color: rgb(249, 248, 246);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+
+#text {
+    background-color: rgb(199, 250, 196);
+}
+
+.cnc {
+    background-color: rgb(249, 248, 246);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+
+.code {
+    background-color: rgb(249, 248, 246);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+
+____________________________________________________________
