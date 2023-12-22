@@ -1,0 +1,151 @@
+index.html
+==========
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS - Lecture2</title>
+    <link rel="stylesheet" href="/Lecture2/index.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&family=Rubik+Doodle+Triangles&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <p id="text">
+        moon : The Moon is a barren, rocky world without air and water. It has dark lava plain on its surface. The Moon
+        is filled wit craters. It has no light of its own. It gets its light from the Sun. The Moo keeps changing its
+        shape as it moves round the Earth. It spins on its axis in 27.3 days stars were named after the Edwin Aldrin
+        were the first ones to set their foot on the Moon on 21 July 1969 They reached the Moon in their space craft
+        named Apollo II.
+    </p>
+
+    <div class="cnc">
+        Sun : The sun is a huge ball of gases. It has a diameter of 1,392,000 km. It is so huge that it can hold
+        millions of planets inside it. The Sun is mainly made up of hydrogen and helium gas. The surface of the Sun is
+        known as the photosphere. The photosphere is surrounded by a thin layer of gas known as the chromospheres.
+        Without the Sun, there would be no life on Earth. There would be no plants, no animals and no human beings. As,
+        all the living things on Earth get their energy from the Sun for their survival.
+    </div>
+
+    <h5>
+        Solar System : The Solar System consists of the Sun Moon and Planets. It also consists of comets, meteoroids and
+        asteroids. The Sun is the largest member of the Solar System. In order of distance from the Sun, the planets are
+        Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune and Pluto; the dwarf planet. The Sun is at the
+        centre of the Solar System and the planets, asteroids, comets and meteoroids revolve around it.
+    </h5>
+
+    <p id="text1">
+        Delhi : Delhi is the capital of India. It is situated on the banks of the river Yamuna. It is surrounded by
+        Haryanaand Uttar Pradesh. It has some of the famous buildings and monuments such as the Qutub Minar, Reu Fort,
+        Lotus Temple, Akshardham Temple etc. Some of the monuments are hundreds of years old. Apart from this, there is
+        the Parliament House, the Central Secretariat and the famous Connaught place. Delhi is a beautiful city. But, it
+        is becoming very crowded and polluted. I love Delhi a lot.
+    </p>
+
+    <div class="cnc1">
+        Hawker : A hawker is a person who moves from one place to another and sell their goods, by shouting on the
+        streets. They work hard throughout the day. They move on the street on their bicycle and sometimes on foot and
+        sell their products. We can see hawkers everywhere. They move everywhere selling their goods without caring
+        about the weather. There is a hawker who sells vegetables on his bicycle in our locality. His name is Manoj. He
+        brings fresh vegetables at a very reasonable price. He is a nice and an honest hawker.
+    </div>
+
+    <h6>
+        A Snake Charmer : A snake charmer is a person who moves the streets with different types of the banks of the
+        river Yamuna. It is snakes in his basket. He goes from one place to another to show various types of snakes and
+        their
+        tricks. He carries a pipe with which he plays music and snakes dance to his tune. He usually wears a colourful
+        dress. The job of a snake charmer is quite dangerous. Some snakes are quite poisonous and can even bite him. It
+        is not an easy task to catch and train them for the shows.
+    </h6>
+</body>
+
+</html>
+
+____________________________________________________________________________________________________
+
+index.css
+========
+
+#text {
+    text-transform: uppercase;
+    border: 3px solid rgb(131, 184, 131);
+    border-radius: 20px;
+    text-decoration: underline;
+    line-height: 30px;
+    text-indent: 50px;
+    padding-left: 20px;
+    margin: 20px;
+}
+
+.cnc {
+    text-transform: lowercase;
+    border: 3px dashed rgb(236, 19, 19);
+    text-decoration: line-through;
+    font-weight: bolder;
+    border-radius: 20px;
+    line-height: 30px;
+    text-indent: 50px;
+    padding-left: 20px;
+    margin: 20px;
+}
+
+h5 {
+    font-weight: 100;
+    border: 2px solid rgb(61, 29, 240);
+    border-radius: 20px;
+    text-indent: 50px;
+    letter-spacing: 3px;
+    padding-left: 20px;
+    margin: 20px;
+}
+
+#text1 {
+    border: 2px solid rgb(61, 29, 240);
+    border-radius: 20px;
+    
+    text-indent: 70px;
+    text-decoration: overline;
+    color: rgb(2, 87, 62);
+    word-spacing: 20px;
+    line-height: 30px;
+    background-color: rgb(159, 244, 218);
+    text-transform: capitalize;
+    font-weight: 500;
+    padding-left: 20px;
+    margin: 20px;
+}
+
+.cnc1 {
+    border: 2px solid rgb(7, 116, 56);
+    border-radius: 20px;
+    text-indent: 70px;
+    text-decoration: underline;
+    color: rgb(239, 25, 25);
+    background-color: rgb(244, 241, 209);
+    line-height: 30px;
+    font-weight: 800;
+    padding-left: 20px;
+    margin: 20px;
+}
+
+h6 {
+    font-family: Rubik Doodle Shadow;
+    border: 3px dotted rgb(12, 13, 12);
+    border-radius: 20px;
+    line-height: 30px;
+    text-indent: 50px;
+    font-weight: 700;
+    font-size: 20px;
+    background-color: rgb(188, 244, 244);
+    padding-left: 20px;
+    margin: 20px;
+}
+
+_________________________________________________
