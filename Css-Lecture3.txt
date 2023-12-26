@@ -1,0 +1,66 @@
+index.html
+==========
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS - Lecture3</title>
+    <link rel="stylesheet" href="/Lecture3/index.css">
+</head>
+
+<body background="/Lecture3/christmas4.webp">
+
+    <div class="box">
+        <img src="https://img.freepik.com/free-vector/gradient-christmas-tinsel-background_52683-76117.jpg" height="400"
+            width="1300" alt="Very Christmas">
+
+        <marquee behavior="" direction="right"><img src="/Lecture3/christmas5.jpg" height="200" width="200" alt="">
+        </marquee>
+
+        <center>
+            <p id="test">
+
+                Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December
+                25 as a religious and cultural celebration among billions of people around the world.<br /> A feast central
+                to the liturgical year in Christianity, it follows the season of Advent (which begins four Sundays
+                before) or the Nativity Fast, and initiates the season of Christmastide, which historically in the West
+                lasts  twelve days and culminates on Twelfth Night.<br /> Christmas Day is a public holiday in many countries,
+                is celebrated religiously by a majority of Christians, as well as culturally by many non-Christians,
+                and forms an integral part of the holiday season surrounding it.
+            </p>
+
+        </center>
+
+    </div>
+
+</body>
+
+</html>
+
+_____________________________________________________________________________________________________________________________
+
+index.css
+==========
+
+#test {
+    font-size: medium;
+    color: red;
+    height: 100px;
+    width: 500px;
+    font-weight: bold;
+    background-repeat: no-repeat;
+}
+
+#test1 {
+    font-size: medium;
+    color: red;
+    background-image: url("/Lecture3/christmas2.png");
+    height: 100px;
+    width: 500px;
+    font-weight: bold;
+}
+
+_______________________________________________________________________________________________________________________________
