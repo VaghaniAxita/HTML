@@ -1,0 +1,120 @@
+index.html
+==========
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/Lecture4/index.css">
+
+    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+        integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <center>
+        <h1>ICONS</h1>
+        <div class="test">
+            <div class="test1">
+                <div class="test2"><img id="i1" src="/Lecture4/html-5.png" alt="HTML 5" height="50" width="50"><b>Hyper Text Markup Language</b></div>
+                <div class="test3"><img id="i2" src="/Lecture4/css-3.png" alt="CSS" height="50" width="50"><b>Cascading Style Sheet</b>
+                </div>
+                <div class="test4"><img id="i3" src="/Lecture4/java-script.png" alt="JS" height="50" width="50"><b>Java Script</b>
+                </div>
+            </div>
+        </div>
+
+    </center>
+
+</body>
+
+</html>
+
+____________________________________________________________________________________________________________________________________________
+
+index.css
+==========
+
+h1 {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(132, 42, 165);
+
+}
+
+.test {
+    border: 2px solid black;
+    height: 800px;
+    width: 800px;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(35, 96, 215, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
+
+.test1 {
+    border: 2px solid black;
+    height: 700px;
+    width: 700px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    background: rgb(131, 58, 180);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(215, 62, 62, 1) 50%, rgba(252, 176, 69, 1) 100%);
+}
+
+.test2 {
+    border: 2px solid black;
+    height: 50px;
+    width: 500px;
+    font-size: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    margin-top: 120px;
+    background: rgb(34, 193, 195);
+    background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(219, 166, 52, 1) 100%);
+}
+
+.test3 {
+    border: 2px solid black;
+    height: 50px;
+    width: 500px;
+    font-size: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    margin-top: 120px;
+    background: rgb(63, 94, 251);
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(212, 164, 66, 1) 100%);
+
+}
+
+.test4 {
+    border: 2px solid black;
+    height: 50px;
+    width: 500px;
+    font-size: 20px;
+    padding-bottom: 20px;
+    margin-top: 120px;
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}
+
+#i1 {
+    margin-right: 170px;
+    margin-top: 10px;
+}
+
+#i2 {
+    margin-right: 250px;
+    margin-top: 10px;
+}
+
+#i3 {
+    margin-right: 350px;
+    margin-top: 10px;
+}
+
+_____________________________________________________________________________________________________________________________
