@@ -1,0 +1,136 @@
+boxmodel2.html
+==============
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/Lecture5/boxmodel2.css">
+</head>
+
+<body>
+    <div id="box">
+        <span id="s1">FEATURED</span>
+        <span id="s2">BESTSELLER</span>
+        <img id="img" src="/Lecture5/tresemme-shampoo.webp" alt="Tresemme Shampoo">
+        <p id="text">Tresemme Smooth & Shine Pro Collection Shampoo <br /> Vitamin H & Silk Protein, Intense
+            Moisturisation</p>
+        <center>
+            <span>MRP :</span>
+            <span id="s3">$1120</span>
+            <span id="s4">$896</span>
+            <span id="s5">20% Off</span><br/>
+            <span><img src="/Lecture5/rating.png" id="img1" alt="Rating Star"></span>
+            <span id="s6">( 37234 )</span>
+        </center>
+        
+        <span id="s7">
+             <img src="/Lecture5/heart (1).png" alt="Heart" id="img2">
+             <span id="s8">Preview Size</span>
+        </span>
+    </div>
+
+</body>
+
+</html>
+
+_____________________________________________________________________
+
+boxmodel2.css
+=============
+
+#box{
+    height: 700px;
+    width: 500px;
+    border: 2px solid black;
+    
+}
+
+#s1{
+    font-weight: 300;
+    line-height: 20px;
+    color: red;
+}
+
+#s2{
+    font-weight: 300;
+    line-height: 20px;
+    color: green;
+}
+
+#img{
+    height: 300px;
+    display: block;
+    margin: auto;
+}
+
+#text{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+
+#s1{
+    font-size: 15px;
+    font-weight: 600;
+}
+
+#s2{
+    font-size: 15px;
+    font-weight: 600;
+    padding-left: 10px;
+}
+
+#s3{
+    text-decoration: line-through;
+    font-size: 20px;
+}
+
+#s4{
+    font-weight: 700;
+    padding-left: 5px;
+    font-size: 20px;
+}
+
+#s5{
+    color:green;
+    padding-left: 20px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+#s6{
+    padding-left: 50px;
+    text-align: center;
+}
+
+#img1{
+    height: 100px;
+    width: 100px;
+}
+
+#s7{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+}
+
+#s8{
+   background-color: rgb(234, 23, 234);
+   color: white;
+   font-weight: 800;
+   padding-left: 300px;
+   padding-right: 100px;
+}
+
+#img2{
+    height: 40px;
+    width: 40px;
+    display: block;
+    margin: auto;
+}
+
+_______________________________________________________________________
